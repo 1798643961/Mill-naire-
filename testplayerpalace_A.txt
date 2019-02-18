@@ -1,0 +1,5 @@
+building.length=29
+building.width=37
+
+initial.startlevel=-2
+initial.nativename=japaneseplayerpalace
